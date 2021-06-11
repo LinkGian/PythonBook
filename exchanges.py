@@ -12,3 +12,6 @@ print(coins)
 
 message3 = f"If you want to make it, buy {coins[4]}"
 print(message3)
+
+for coin in coins:
+    print(coin)
